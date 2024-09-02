@@ -1,0 +1,6 @@
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
+__main__ - ERROR - Please set BOT_TOKEN in config.py or as env var
